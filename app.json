@@ -1,0 +1,8 @@
+{
+  "name":"shahriar product",
+  "buildpacks": [
+    {
+      "url": "heroku/gradle"
+    }
+  ]
+}
